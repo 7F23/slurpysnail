@@ -1,0 +1,2 @@
+# slurpysnail
+Luoshifen detector
